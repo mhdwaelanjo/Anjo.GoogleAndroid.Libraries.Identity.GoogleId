@@ -3,7 +3,7 @@
 GoogleAndroid Libraries Identity GoogleId SDK for .NET for Android (formerly Xamarin.Android) Binding Library - Wael Anjo
 ---------------------------------
 
-[![NuGet](https://buildstats.info/nuget/Anjo.GoogleAndroid.Libraries.Identity.GoogleId)](https://www.nuget.org/packages/Anjo.GoogleAndroid.Libraries.Identity.GoogleId)
+[![NuGet](https://img.shields.io/nuget/v/Anjo.GoogleAndroid.Libraries.Identity.GoogleId)](https://www.nuget.org/packages/Anjo.GoogleAndroid.Libraries.Identity.GoogleId)
 [![License](https://img.shields.io/github/license/mhdwaelanjo/Anjo.GoogleAndroid.Libraries.Identity.GoogleId)](https://github.com/mhdwaelanjo/Anjo.GoogleAndroid.Libraries.Identity.GoogleId/blob/master/LICENSE)
  
 ---------------------------------
